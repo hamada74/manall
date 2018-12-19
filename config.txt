@@ -1,0 +1,7 @@
+?token=NTI0ODg2MjkzMTA1MDgyMzcw.Dvumzw.FoKYGC9SwKSMmRZzC5pXZbi7Umc
+owner=246353169121017857
+prefix= ha
+game= !uhelp
+stayinchannel=true
+songinstatus=true 
+token=NTI0ODUyMjcyNzk5NDE2MzMx.Dvuh6w.nNB1oLrZdKqBra4B6wglVzYqQ8Q
